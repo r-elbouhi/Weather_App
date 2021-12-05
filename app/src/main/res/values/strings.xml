@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_happend">Something went wrong. Please try again later</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="search_hint">Search...</string>
+    <string name="please_enter_city_name">Please enter city name</string>
+    <string name="cannot_get_your_location">Cannot get your location</string>
+</resources>
